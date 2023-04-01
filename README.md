@@ -1,4 +1,4 @@
-# SW_hackathon
+# SW Hackathon
 2022 대구를 빛내는 SW해커톤
 
 #### [팀명] : 컴둥이
